@@ -1,3 +1,4 @@
+-- @Duren Gouda
 --                                                     SECTION 2
 -- ************************************************ STORED PROCEDURES!!! ********************************************
 -- ****************************This script has 2 procedures as required in the project*******************************
