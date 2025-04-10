@@ -1,3 +1,4 @@
+-- @Duren Gouda
 --                                                     SECTION 1
 -- ************************************************ CREATE DATABASE AND USE IT!!! ********************************************
 -- ****************************This script creates and populates the COVID-related database***********************************
